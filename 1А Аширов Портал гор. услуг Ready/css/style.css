@@ -1,0 +1,89 @@
+img {
+    pointer-events: none;
+}
+
+.request-img {
+    min-width: 250px;
+    min-height: 250px;
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.margin {
+    margin: 5px;
+}
+
+.mt {
+    margin-top: 5px;
+}
+
+.mb {
+    margin-bottom: 20px;
+}
+
+.parent-center {
+    display: flex;
+
+}
+
+.cool-cell-header {
+    border: 1px solid black;
+    width: 10%;
+    height: 30px;
+    text-align: center;
+}
+
+.cool-cell-info {
+    border: 1px solid black;
+    width: 10%;
+    padding-left: 5px;
+}
+
+.cool-cell-centerText {
+    text-align: center;
+}
+
+.aar-child-vcenter {
+    margin: auto;
+}
+
+.bgimg-auth {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("../img/cityProblemsBg.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.auth-block-bg {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.width {
+    width: 200px;
+}
+
+.input-size {
+    max-width: 300px;
+    min-height: 200px;
+}
+
+.df {
+    display: flex;
+}
+
+.jcsb {
+    justify-content: space-between;
+}
+
+.verticalAlg {
+    padding-top: 4.5%;
+}
+
+.ml5p {
+    margin-left: 5%;
+}
+
+.w250 {
+    max-width: 250px;
+}
